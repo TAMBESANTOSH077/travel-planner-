@@ -8,6 +8,9 @@
 
 We're thrilled to announce that **Travel Planner AI** has evolved into **[Rutugo](https://rutugo.com)** - a more powerful, intuitive, and comprehensive travel planning platform! 🌟
 
+
+
+
 ### 🎯 **What's Changed?**
 
 - **🎨 Fresh Brand Identity**: Rutugo represents our commitment to smarter, more personalized travel experiences
